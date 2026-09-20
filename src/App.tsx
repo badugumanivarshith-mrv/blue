@@ -1,6 +1,8 @@
-import { RouterProvider } from "react-router";
-import { router } from "./routes";
+/**
+ * @license
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 export default function App() {
-  return <RouterProvider router={router} />;
+  return <div></div>;
 }
